@@ -1,0 +1,8 @@
+C:\Users\maria\source\repos\UnitConverter\bin\Debug\UnitConverter.exe.config
+C:\Users\maria\source\repos\UnitConverter\bin\Debug\UnitConverter.exe
+C:\Users\maria\source\repos\UnitConverter\bin\Debug\UnitConverter.pdb
+C:\Users\maria\source\repos\UnitConverter\obj\Debug\UnitConverter.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\UnitConverter\obj\Debug\UnitConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\source\repos\UnitConverter\obj\Debug\UnitConverter.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\UnitConverter\obj\Debug\UnitConverter.exe
+C:\Users\maria\source\repos\UnitConverter\obj\Debug\UnitConverter.pdb

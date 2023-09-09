@@ -1,0 +1,8 @@
+C:\Users\maria\source\repos\ConsoleAssign4\bin\Debug\ConsoleAssign4.exe.config
+C:\Users\maria\source\repos\ConsoleAssign4\bin\Debug\ConsoleAssign4.exe
+C:\Users\maria\source\repos\ConsoleAssign4\bin\Debug\ConsoleAssign4.pdb
+C:\Users\maria\source\repos\ConsoleAssign4\obj\Debug\ConsoleAssign4.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\ConsoleAssign4\obj\Debug\ConsoleAssign4.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\source\repos\ConsoleAssign4\obj\Debug\ConsoleAssign4.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\ConsoleAssign4\obj\Debug\ConsoleAssign4.exe
+C:\Users\maria\source\repos\ConsoleAssign4\obj\Debug\ConsoleAssign4.pdb

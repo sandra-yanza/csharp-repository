@@ -1,0 +1,11 @@
+C:\Users\maria\source\repos\WindowsFormsAppAssign\bin\Debug\WindowsFormsAppAssign.exe.config
+C:\Users\maria\source\repos\WindowsFormsAppAssign\bin\Debug\WindowsFormsAppAssign.exe
+C:\Users\maria\source\repos\WindowsFormsAppAssign\bin\Debug\WindowsFormsAppAssign.pdb
+C:\Users\maria\source\repos\WindowsFormsAppAssign\obj\Debug\WindowsFormsAppAssign.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\WindowsFormsAppAssign\obj\Debug\WindowsFormsAppAssign.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\source\repos\WindowsFormsAppAssign\obj\Debug\WindowsFormsAppAssign.Form1.resources
+C:\Users\maria\source\repos\WindowsFormsAppAssign\obj\Debug\WindowsFormsAppAssign.Properties.Resources.resources
+C:\Users\maria\source\repos\WindowsFormsAppAssign\obj\Debug\WindowsFormsAppAssign.csproj.GenerateResource.cache
+C:\Users\maria\source\repos\WindowsFormsAppAssign\obj\Debug\WindowsFormsAppAssign.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\WindowsFormsAppAssign\obj\Debug\WindowsFormsAppAssign.exe
+C:\Users\maria\source\repos\WindowsFormsAppAssign\obj\Debug\WindowsFormsAppAssign.pdb

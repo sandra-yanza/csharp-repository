@@ -1,0 +1,8 @@
+C:\Users\maria\source\repos\InvestmentCalculator\InvestmentCalculator\bin\Debug\InvestmentCalculator.exe.config
+C:\Users\maria\source\repos\InvestmentCalculator\InvestmentCalculator\bin\Debug\InvestmentCalculator.exe
+C:\Users\maria\source\repos\InvestmentCalculator\InvestmentCalculator\bin\Debug\InvestmentCalculator.pdb
+C:\Users\maria\source\repos\InvestmentCalculator\InvestmentCalculator\obj\Debug\InvestmentCalculator.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\InvestmentCalculator\InvestmentCalculator\obj\Debug\InvestmentCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\source\repos\InvestmentCalculator\InvestmentCalculator\obj\Debug\InvestmentCalculator.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\InvestmentCalculator\InvestmentCalculator\obj\Debug\InvestmentCalculator.exe
+C:\Users\maria\source\repos\InvestmentCalculator\InvestmentCalculator\obj\Debug\InvestmentCalculator.pdb
